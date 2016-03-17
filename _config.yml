@@ -1,7 +1,7 @@
 name: fnbr
 favicon: null
-layout_spectrum: 0.7246282594278455
-typography_spectrum: 0.04369387309998274
+layout_spectrum: 1
+typography_spectrum: 0.39673
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.8563790759071708
-  lightness: 0.34541704901494086
-  saturation: 0.03574165888130665
-  rhythmicContrast: 0.41662604408338666
+    - '#ecf4f7'
+    - '#bad7e7'
+    - '#9e938d'
+    - '#816d62'
+    - '#241d17'
+  brandStrength: 0.625
+  lightness: 0.25
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
